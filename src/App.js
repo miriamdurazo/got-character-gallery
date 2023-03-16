@@ -1,5 +1,5 @@
 import React from 'react'
-import CharacterGallery from './components/CharacterGallery'
+// import CharacterGallery from './components/CharacterGallery'
 import logo from './logo.svg';
 import './App.css'
 
